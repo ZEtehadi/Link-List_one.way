@@ -17,7 +17,6 @@ public:
 	LinkList()
 	{
 		head = NULL;
-		//NextHead = NULL;
 	}
 
 	void insert_asLast(int item)
